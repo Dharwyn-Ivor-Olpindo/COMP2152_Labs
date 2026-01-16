@@ -10,6 +10,7 @@ b = 2
 c = 3 
 d = 4 
 e = (a - ((b ** c) // d)) + (a % c)
+print("Question 3 result:", e)
 
 #Question 4 
 temperature = 32.6
