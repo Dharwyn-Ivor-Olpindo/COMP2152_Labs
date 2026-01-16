@@ -11,6 +11,10 @@ c = 3
 d = 4 
 e = (a - ((b ** c) // d)) + (a % c)
 
+#Question 4 
+temperature = 32.6
+print("The temperature today is: {:.3f} degrees Celsius".format(temperature))
+
 #Question 5
 userAge = int(input("Enter your age: "))
 userAge = userAge + 22 
