@@ -24,4 +24,4 @@ else:
     elif playerChoice == 3 and computerChoice == 2:
         print("Scissors beats Paper - You win!")
     else:
-        print("You lose!")
+        print("You lose!") 
